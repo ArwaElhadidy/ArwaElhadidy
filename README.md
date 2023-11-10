@@ -1,10 +1,5 @@
 ### Hello World ! 👋
 
-<!--
-**ArwaElhadidy/ArwaElhadidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img width="250" align="right" src="[https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif](https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=https://giphy.com/)">
-
 <h3 align="center">
   Welcome to Arwa Elhadidy's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
