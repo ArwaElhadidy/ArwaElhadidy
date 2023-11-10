@@ -7,7 +7,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Abracadabra!;Welcome+to+my+code+cave!;Enter+at+your+own+risk.;They're+harmless,+mostly!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Abracadabra!;Welcome+to+my+code+cave!;Enter+at+your+own+risk.;Beware+of+stray+semicolons+and+ninja+bug.;They're+harmless,+mostly!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"></a>
 </p> 
 
 
