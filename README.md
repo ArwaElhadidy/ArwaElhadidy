@@ -36,16 +36,17 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 ![React.js](https://img.shields.io/badge/-React-ea4aaa?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-ea4aaa?style=flat&logo=node.js&logoColor=339933)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-ea4aaa?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-ea4aaa?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-ea4aaa?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ea4aaa?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-ea4aaa?style=flat&logo=python)&nbsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
 <br>
 
 ### 🌐 Connect and Collaborate:
 Thank you for dropping by. Your interest fuels my coding adventures. Let's build something extraordinary together!
-<b>
+<br>
 <a href="(https://t.me/ArwaElhadidy)" target="_blank"><img src="https://img.shields.io/badge/-Arwa%20Elhadidy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
