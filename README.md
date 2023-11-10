@@ -48,7 +48,7 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 Thank you for dropping by. Your interest fuels my coding adventures. Let's build something extraordinary together!
 
 <br>
-
-<a href="(https://t.me/ArwaElhadidy)" target="_blank"><img src="https://img.shields.io/badge/-Arwa%20Elhadidy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+</a>
+<a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://img.shields.io/badge/-Arwa%20Elhadidy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
