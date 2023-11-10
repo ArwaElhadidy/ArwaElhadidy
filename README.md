@@ -40,8 +40,9 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ea4aaa?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-ea4aaa?style=flat&logo=python)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
+<br>
 <br>
 
 ### 🌐 Connect and Collaborate:
