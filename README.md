@@ -10,6 +10,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Abracadabra!;Welcome+to+my+code+cave!;Enter+at+your+own+risk.;Beware+of+ninja+bugs!;They're+harmless,+mostly!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"></a>
 </p> 
 
+<img width="380" align="right" alt="Github"
+src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
+/> 
 
 ### Welcome to the digital playground of a passionate junior frontend developer! I'm on a mission to bring pixels to life and create delightful user experiences. Dive into this repository to explore a medley of projects that reflect my journey and dedication to the frontend craft.
 
@@ -40,7 +43,6 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ea4aaa?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-ea4aaa?style=flat&logo=python)&nbsp;
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
 <br>
 
