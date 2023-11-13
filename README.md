@@ -98,17 +98,9 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
         width="40" height="40"
     /> 
     </a> 
-  <a>
-      href="https://git-scm.com/"
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="Images/Static/github.png" alt="github"
-        width="40" height="40"
-    /> 
-    </a> 
-    <a href="https://www.python.org/" 
+    <a href="https://www.github.com/" 
       target="_blank">
-      <img alt="Python" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/githup-original.svg" 
+      <img alt="Python" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
         /></a>
 <br>
 
