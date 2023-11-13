@@ -117,7 +117,6 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 ### 🌐 Connect and Collaborate:
 Thank you for dropping by. Your interest fuels my coding adventures. Let's build something extraordinary together!
 <br><br>
-</a>
 <a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/></a>
-
+<a href="https://www.arwaelhadidy6@gmail.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gmail/gmail-original-wordmark.svg" alt="Gmail" width="40" height="40" /> </a> 
 
