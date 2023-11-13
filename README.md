@@ -100,7 +100,7 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
     </a> 
     <a href="https://www.github.com/" 
       target="_blank">
-      <img alt="Python" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+      <img alt="Python" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
         /></a>
 <br>
 
