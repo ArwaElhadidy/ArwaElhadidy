@@ -15,7 +15,7 @@
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
 <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
-  <p align="center"> 📖💻I am a computer science student, mastering the language of technology to shape the future🔍💻, turning ideas into algorithms and dreams into software solutions🎭.</p>
+  <p align="center"> 📖💻I am a computer science student, mastering the language of technology to shape the future🔍, turning ideas into algorithms and dreams into software solutions🎭.</p>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
 ### 🚀 Creative Coding Adventures:
 Join me in exploring diverse and imaginative frontend projects, from responsive web apps to whimsical interfaces.
@@ -119,6 +119,6 @@ Thank you for dropping by. Your interest fuels my coding adventures. Let's build
 
 <br>
 </a>
-<a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://img.shields.io/badge/-Arwa%20Elhadidy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg"/></a>
 
 
