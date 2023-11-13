@@ -34,6 +34,16 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 
 ### 🛠 &nbsp;Tech Stack:
 
+<!-- vs code -->
+ <a 
+    href="https://code.visualstudio.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+        alt="VS code" width="40" height="40"
+    /> 
+ </a> 
+
 ![HTML](https://img.shields.io/badge/-HTML-ea4aaa?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-ea4aaa?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React.js](https://img.shields.io/badge/-React-ea4aaa?style=flat&logo=react)
