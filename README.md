@@ -117,7 +117,7 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 ### 🌐 Connect and Collaborate:
 Thank you for dropping by. Your interest fuels my coding adventures. Let's build something extraordinary together!
 <br><br>
-<a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://img.shields.io/badge/-Telegram-D14836?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/></a>
 <a 
     target="_blank" 
     href="mailto:arwaelhadidy6@gmail.com">
