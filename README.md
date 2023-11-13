@@ -119,6 +119,6 @@ Thank you for dropping by. Your interest fuels my coding adventures. Let's build
 
 <br>
 </a>
-<a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg"/></a>
+<a href="https://t.me/ArwaElhadidy" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png"/></a>
 
 
