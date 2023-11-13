@@ -109,7 +109,14 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
 
 </p> 
 <br>
- <img width="100%" src="Images/Dynamic/languages.svg">
+    <tr>
+      <td align='center'><img width="70" src="Images/Static/python.png" title="Python"></td>
+      <td align='center'><img width="70" src="Images/Static/cpp.png" title="C++"></td>
+      <td align='center'><img width="70" src="Images/Static/html.png" title="HTML"></td>
+      <td align='center'><img width="70" src="Images/Static/css.png" title="CSS"></td>
+      <td align='center'><img width="70" src="Images/Static/bootstrap.png" title="Bootstrap"></td>
+      <td align='center'><img width="50" src="Images/Static/django.png" title="Django"></td>
+    </tr>
 
 ### 🌐 Connect and Collaborate:
 Thank you for dropping by. Your interest fuels my coding adventures. Let's build something extraordinary together!
