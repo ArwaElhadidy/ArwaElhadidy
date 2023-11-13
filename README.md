@@ -101,7 +101,7 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
       href="https://git-scm.com/"
     target="_blank" rel="noreferrer"> 
     <img
-        src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://img.shields.io/badge/-GitHub-ea4aaa?style=flat&logo=github&logoColor=white)" alt="github"
+        src="Images/Static/github.png" alt="github"
         width="40" height="40"
     /> 
     </a> 
