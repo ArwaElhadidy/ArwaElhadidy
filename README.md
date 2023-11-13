@@ -98,9 +98,26 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
         width="40" height="40"
     /> 
     </a> 
+      href="https://git-scm.com/"
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="[https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg](https://img.shields.io/badge/-GitHub-ea4aaa?style=flat&logo=github&logoColor=white)" alt="github"
+        width="40" height="40"
+    /> 
+    </a> 
 <br>
 
 </p> 
+
+![HTML](https://img.shields.io/badge/-HTML-ea4aaa?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-ea4aaa?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React.js](https://img.shields.io/badge/-React-ea4aaa?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-ea4aaa?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-ea4aaa?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-ea4aaa?style=flat&logo=github&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ea4aaa?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-ea4aaa?style=flat&logo=python)&nbsp;
+
 
 
 ### 🌐 Connect and Collaborate:
