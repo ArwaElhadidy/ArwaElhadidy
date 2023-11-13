@@ -43,7 +43,12 @@ As a junior frontend developer, every commit is a step forward. Stay tuned for n
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
         alt="VS code" width="40" height="40"
     /> 
- </a> 
+ </a>   
+<a
+  href="https://www.python.org/" target="_blank">
+  <img alt="Python" height ="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+    />
+    </a>
  <!-- html -->
  <a 
     href="https://www.java.com" 
