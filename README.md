@@ -10,6 +10,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Abracadabra!;Welcome+to+my+code+cave!;Enter+at+your+own+risk.;Beware+of+ninja+bugs!;They're+harmless,+mostly!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"></a>
 </p> 
 
+<summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I am a novice ML Engineer <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
+    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+
 <img width="380" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
