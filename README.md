@@ -14,7 +14,7 @@
 <img width="380" align="right" alt="Github"
 src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/Icons/developer-girl.gif" 
 /> 
-<summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+<summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" />Briefly about me </h2></summary>
   <p align="center"> 📖💻I am a computer science student, mastering the language of technology to shape the future🔍, turning ideas into algorithms and dreams into software solutions🎭.</p>
     <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
 ### 🚀 Creative Coding Adventures:
